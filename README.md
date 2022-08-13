@@ -1,5 +1,7 @@
 # KnightRider  
 
+Knight Rider animation for WS2812B LED strip using an Arduino and the FastLED library.  
+
 See YouTube video here: https://www.youtube.com/watch?v=c2JagMQn1mc
 
 How to retreive and upload source code to Arduino:  
